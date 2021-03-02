@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="temp_rature">Température</string>
+    <string name="distance">Distance</string>
+    <string name="mass">Masse</string>
+    <string name="data">Données</string>
+    <string name="unit_converter">Convertisseur d\'unités</string>
+    <string name="intro">Choisissez les unités à convertir :</string>
+    <string name="title_activity_mass_converter">MassConverter</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <!-- MassConverterResources -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="mass_converter">Mass Converter</string>
+    <string name="convertMass">Converti</string>
+    <string name="resultMass">Résultat:</string>
+    <string name="resultAff" />
+    <string name="enter_your_value_mass">Enter your value</string>
+    <string-array name="spinner_Mass">
+        <item>Kg à Pounds</item>
+        <item>Pounds à Kg</item>
+    </string-array>
+    <!-- -->
+    <string-array name="spinner_Temp">
+        <item>Celsius à Fahrenheit</item>
+        <item>Fahrenheit à Celsius</item>
+    </string-array>
+    <string name="convertTemp">Convert</string>
+    <string-array name="spinner_Data">
+        <item>Octets à bit</item>
+        <item>Bit à octets</item>
+    </string-array>
+</resources>
